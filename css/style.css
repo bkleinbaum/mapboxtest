@@ -1,0 +1,13 @@
+#map {
+	height: 400px;
+}
+
+
+#buttons {
+	text-align: center;
+}
+
+#borough, #district{
+	display:inline-block;
+	white-space: nowrap;
+}
